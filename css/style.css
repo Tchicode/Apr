@@ -1,0 +1,104 @@
+h1 {font-size: 40px; color:#ffc0cb; text-align: center;
+    font-family: "Abril Fatface",serif;
+}
+h2 {text-align: center;font-family: "Abril Fatface",serif; color: #6699ff;
+}
+h3 {font-family: "Abril Fatface",serif;
+}
+.daisy {text-align: center; margin-bottom: 4px;
+}
+h4 {text-align: center;
+}
+.lfg,.rock,.ram, .bull, .bud,.pas1, .pas2, .jc {text-align: center;
+}
+
+/**what is the best way to divide content**/
+/**maybe a margin around images**/
+/**How to avoid overlap after sizing images**/
+/**research centering all images within a div **/
+/**research why backgr-color doesn't accept hexidecimal**/
+.opening {font-size: larger; background-color: #ffff1a; 
+    padding-top: 5px;
+    padding-right: 220px;
+    padding-bottom: 5px;
+    padding-left: 220px;
+}
+.main {background-color: #cccc00;font-size:larger;
+    padding-top: 5px;
+    padding-right: 220px;
+    padding-bottom: 5px;
+    padding-left: 220px;
+}
+.daismon {font-size: larger;background-color: #ffd633;
+    padding-top: 5px;
+    padding-right: 220px;
+    padding-bottom: 5px;
+    padding-left: 220px;
+}
+#aries {font-weight: bolder;background-color: #ffffb3;
+}
+#taurus {font-weight: bolder;background-color: #ffffb3;
+}
+#cusp {font-weight: bolder;background-color: #ffffb3; 
+ 
+}
+.cusp {font-size: larger; font-weight: bold;
+    background-color: #ffffb3;
+    padding-top: 5px;
+    padding-right: 220px;
+    padding-bottom: 0px;
+    padding-left: 220px;
+}
+.aprilpg1{background-color: #ffeecc;
+}
+.aprilpg2 {background-color: #ddffcc;
+}
+.aprilpg3 {background-color: #ffffcc;
+}
+.columns3 {
+    display: inline-block;
+    text-align: center;
+    width: 30%; 
+    vertical-align: top;
+    margin:5px;
+    border-right: 1px dashed black;
+    padding: 5px;
+}
+.columns2 {
+    display: inline-block;
+    text-align: center;
+    width: 31%; 
+    vertical-align: top;
+    margin:5px;
+    border-right: 1px dashed black;
+    padding: 5px;
+}
+.list {font-weight: bolder;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d9b38c;
+    text-align: center;
+}
+
+#nav li {
+    display:inline-block;
+}
+
+#nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
+
+#nav li a:hover {
+    background-color: #111;
+}
